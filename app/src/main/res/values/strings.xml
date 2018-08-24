@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="dev">http://dev.openthos.org/</string>
+    <string name="lab">http://192.168.0.158</string>
+    <string name="devs">http://166.111.120.235</string>
+</resources>
